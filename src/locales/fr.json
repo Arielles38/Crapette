@@ -1,0 +1,84 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer"
+  },
+  "menu": {
+    "title": "Crapette",
+    "play": "Jouer",
+    "play_ai": "Jouer contre l'IA",
+    "play_online": "Jouer en ligne",
+    "settings": "Paramètres",
+    "about": "À propos",
+    "quit": "Quitter",
+    "profile": "Profil",
+    "stats": "Statistiques"
+  },
+  "game": {
+    "title": "Crapette",
+    "your_turn": "À votre tour",
+    "opponent_turn": "Tour de l'adversaire",
+    "opponent_name": "Adversaire",
+    "make_move": "Faire un coup",
+    "end_turn": "Terminer le tour",
+    "undo": "Annuler",
+    "resign": "Abandonner",
+    "crapette": "Crapette!",
+    "invalid_move": "Coup invalide",
+    "valid_move": "Coup valide",
+    "move_blocked": "Coup bloqué",
+    "game_won": "Vous avez gagné!",
+    "game_lost": "Vous avez perdu",
+    "game_tied": "Partie nulle",
+    "confirmation_resign": "Êtes-vous sûr de vouloir abandonner?",
+    "waiting_for_opponent": "Attente de l'adversaire...",
+    "opponent_disconnected": "Adversaire déconnecté",
+    "reconnecting": "Reconnexion...",
+    "connection_lost": "Connexion perdue"
+  },
+  "crapette": {
+    "title": "Défi Crapette",
+    "message": "Coup invalide détecté!",
+    "call_crapette": "Appeler Crapette",
+    "penalty": "-10 points",
+    "valid_crapette": "Crapette valide!",
+    "invalid_crapette": "Crapette invalide",
+    "crapette_called": "Crapette appelée sur votre coup",
+    "time_limit": "Appeler dans les 5 secondes"
+  },
+  "rules": {
+    "title": "Règles",
+    "foundation": "Fondation: Croissant par rang, même couleur, commencer par l'As",
+    "tableau": "Tableau: Décroissant par rang, couleurs alternées",
+    "reserve": "Réserve: Seulement la carte du haut disponible",
+    "crapette_rule": "Crapette: Interrompre l'adversaire s'il fait un coup invalide"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language": "Langue",
+    "language_en": "English",
+    "language_fr": "Français",
+    "sound": "Son",
+    "notifications": "Notifications",
+    "difficulty": "Difficulté",
+    "difficulty_easy": "Facile",
+    "difficulty_medium": "Moyen",
+    "difficulty_hard": "Difficile"
+  },
+  "auth": {
+    "title": "Se connecter",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "sign_in": "Se connecter",
+    "sign_up": "S'inscrire",
+    "forgot_password": "Mot de passe oublié?",
+    "create_account": "Créer un compte",
+    "error_invalid_email": "E-mail invalide",
+    "error_password_short": "Le mot de passe doit comporter au moins 6 caractères",
+    "error_email_in_use": "E-mail déjà utilisé",
+    "error_wrong_password": "Mot de passe incorrect"
+  }
+}

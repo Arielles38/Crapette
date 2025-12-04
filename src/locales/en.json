@@ -1,0 +1,84 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "menu": {
+    "title": "Crapette",
+    "play": "Play",
+    "play_ai": "Play vs AI",
+    "play_online": "Play Online",
+    "settings": "Settings",
+    "about": "About",
+    "quit": "Quit",
+    "profile": "Profile",
+    "stats": "Statistics"
+  },
+  "game": {
+    "title": "Crapette",
+    "your_turn": "Your turn",
+    "opponent_turn": "Opponent's turn",
+    "opponent_name": "Opponent",
+    "make_move": "Make a move",
+    "end_turn": "End Turn",
+    "undo": "Undo",
+    "resign": "Resign",
+    "crapette": "Crapette!",
+    "invalid_move": "Invalid move",
+    "valid_move": "Valid move",
+    "move_blocked": "Move blocked",
+    "game_won": "You won!",
+    "game_lost": "You lost",
+    "game_tied": "Game tied",
+    "confirmation_resign": "Are you sure you want to resign?",
+    "waiting_for_opponent": "Waiting for opponent...",
+    "opponent_disconnected": "Opponent disconnected",
+    "reconnecting": "Reconnecting...",
+    "connection_lost": "Connection lost"
+  },
+  "crapette": {
+    "title": "Crapette Challenge",
+    "message": "Invalid move detected!",
+    "call_crapette": "Call Crapette",
+    "penalty": "-10 points",
+    "valid_crapette": "Valid crapette call!",
+    "invalid_crapette": "Invalid crapette call",
+    "crapette_called": "Crapette called on your move",
+    "time_limit": "Call within 5 seconds"
+  },
+  "rules": {
+    "title": "Rules",
+    "foundation": "Foundation: Ascending by rank, same suit, start with Ace",
+    "tableau": "Tableau: Descending by rank, alternating colors",
+    "reserve": "Reserve: Only top card available",
+    "crapette_rule": "Crapette: Interrupt opponent if they make an invalid move"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "language_en": "English",
+    "language_fr": "Français",
+    "sound": "Sound",
+    "notifications": "Notifications",
+    "difficulty": "Difficulty",
+    "difficulty_easy": "Easy",
+    "difficulty_medium": "Medium",
+    "difficulty_hard": "Hard"
+  },
+  "auth": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up",
+    "forgot_password": "Forgot Password?",
+    "create_account": "Create Account",
+    "error_invalid_email": "Invalid email",
+    "error_password_short": "Password must be at least 6 characters",
+    "error_email_in_use": "Email already in use",
+    "error_wrong_password": "Wrong password"
+  }
+}
